@@ -1,0 +1,2 @@
+GitHub provides a structured platform for collaborative development, allowing multiple contributors to work on the same repository through branches, pull requests, and team permissions.
+Collaborator/Contributor: Can push changes to branches they have access to, submit pull requests, and comment on issues.
